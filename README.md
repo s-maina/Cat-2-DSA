@@ -1,4 +1,5 @@
 # Cat-2-DSA
+# 188164 Shatra Maina
 Question 1.
 i)Ignore Constants
    O(2n) -> O(n)
