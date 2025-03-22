@@ -2,9 +2,12 @@
 Question 1.
 i)Ignore Constants
    O(2n) -> O(n)
+   
 ii)Focus on Dominant term
    O(n2 + n) -> O(n2)
+   
 iii)Consider input size changes - where you consider logarithimic growth if the input size reduces.
+
 iv)Drop non dominant terms
     O(n+n2+logn) ->O(n2)
 
